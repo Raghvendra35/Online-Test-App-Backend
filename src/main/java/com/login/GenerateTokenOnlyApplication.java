@@ -23,7 +23,7 @@ public class GenerateTokenOnlyApplication {
 	{
 		SpringApplication.run(GenerateTokenOnlyApplication.class, args);
 		
-		System.out.println("Running ...............");
+		System.out.println("Running .................");
 	}
 
 	//CommnadLineRunner is used to give the area to run code whatever we will write in run() method
